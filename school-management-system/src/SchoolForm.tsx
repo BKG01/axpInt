@@ -1,8 +1,6 @@
 
-
-
 import React, { useState } from 'react';
-import './SchoolForm.css'; /* SchoolForm.css */
+import './SchoolForm.css'; 
 
 
 
