@@ -3,6 +3,7 @@ import React from 'react';
 import './App.css';
 import SchoolForm from './SchoolForm';
 import './SchoolForm.css';
+
 const App: React.FC = () => {
     return (
         <div className="App">
